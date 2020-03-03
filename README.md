@@ -1,4 +1,4 @@
 # SimpleCalculator
 Just Simple Calculator
 
-Use J
+Use JAVA
